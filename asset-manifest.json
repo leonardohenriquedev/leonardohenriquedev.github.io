@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b45ed01e.chunk.css",
-    "main.js": "/static/js/main.7de9b99f.chunk.js",
-    "main.js.map": "/static/js/main.7de9b99f.chunk.js.map",
+    "main.js": "/static/js/main.8fdee5d8.chunk.js",
+    "main.js.map": "/static/js/main.8fdee5d8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d0605945.js",
     "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
     "static/js/2.d134edc4.chunk.js": "/static/js/2.d134edc4.chunk.js",
@@ -27,6 +27,7 @@
     "static/media/shoppingcart.e4b63056.png": "/static/media/shoppingcart.e4b63056.png",
     "static/media/solar-system.1933ebb1.png": "/static/media/solar-system.1933ebb1.png",
     "static/media/todolist.b5cafa2a.png": "/static/media/todolist.b5cafa2a.png",
+    "static/media/trybetunes.f800a61d.png": "/static/media/trybetunes.f800a61d.png",
     "static/media/trybewallet.f61efc54.png": "/static/media/trybewallet.f61efc54.png",
     "static/media/trybewarts.f4592430.png": "/static/media/trybewarts.f4592430.png"
   },
@@ -34,6 +35,6 @@
     "static/js/runtime-main.d0605945.js",
     "static/js/2.d134edc4.chunk.js",
     "static/css/main.b45ed01e.chunk.css",
-    "static/js/main.7de9b99f.chunk.js"
+    "static/js/main.8fdee5d8.chunk.js"
   ]
 }
