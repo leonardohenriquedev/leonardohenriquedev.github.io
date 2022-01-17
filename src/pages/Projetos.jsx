@@ -9,6 +9,8 @@ import github from '../images/github.svg';
 import linkedin from '../images/linkedin.svg';
 import Footer from '../components/Footer';
 import trybeWallet from '../images/trybewallet.png';
+import trybeTunes from '../images/trybetunes.png';
+
 
 export default class Projetos extends Component {
   render() {
@@ -30,6 +32,13 @@ export default class Projetos extends Component {
               <a href="https://trybewallet-cyan.vercel.app/">
                 <p>TrybeWallet</p>
                 <img src={trybeWallet} alt="" className="project_img" />
+              </a>
+            </div>
+
+            <div class="project">
+              <a href="https://trybetunes-rho.vercel.app/">
+                <p>TrybeTunes</p>
+                <img src={trybeTunes} alt="" className="project_img" />
               </a>
             </div>
             
