@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Redirect } from 'react-router-dom';
 import About from '../components/About';
 import Footer from '../components/Footer';
 import Hero from '../components/Hero';
@@ -9,10 +10,11 @@ export default class Home extends Component {
   render() {
     return (
       <div className="home">
-        <Hero />
+        {(window.location.href = 'https://leonardohenrique.vercel.app/')}
+        {/* <Hero />
         <Tecnologies />
         <About />
-        <Footer />
+        <Footer /> */}
       </div>
     );
   }
