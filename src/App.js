@@ -12,12 +12,12 @@ class App extends React.Component {
   render() {
     return (
       <BrowserRouter>
-        {/* <Header /> */}
+        <Header />
         <Switch>
           <Route exact path="/" render={(props)=><Home {...props} />} />
-          {/* <Route path="/projetos" component={<Projetos />} />
+          <Route path="/projetos" component={<Projetos />} />
           <Route path="/contato" component={<Contato />} />
-          <Route path="*" component={<NotFound />} /> */}
+          <Route path="*" component={<NotFound />} />
         </Switch>
       </BrowserRouter>
     );

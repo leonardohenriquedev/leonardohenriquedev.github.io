@@ -8,14 +8,13 @@ import './styles/home.css';
 
 export default class Home extends Component {
   render() {
-    return (
-      <div className="home">
-        {(window.location.href = 'https://leonardohenrique.vercel.app/')}
-        {/* <Hero />
-        <Tecnologies />
-        <About />
-        <Footer /> */}
-      </div>
-    );
+    return window.location.href = 'https://leonardohenrique.vercel.app/'
+      // <div className="home">
+      //   <Hero />
+      //   <Tecnologies />
+      //   <About />
+      //   <Footer />
+      // </div>
+    
   }
 }
